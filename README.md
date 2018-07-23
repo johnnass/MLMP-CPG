@@ -16,6 +16,9 @@ https://link.springer.com/article/10.1007%2Fs00422-014-0592-8
 https://www.youtube.com/watch?v=RJ8hlgq0vos
 
 
+
+# The sorce code provided here generates rhythmic walking patterns on Nao humanoid robot.
+
 #Files: 
 
 "MLMPCPG.py": all CPG classes and functions.
